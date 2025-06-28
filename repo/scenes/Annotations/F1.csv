@@ -1,0 +1,15 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+screw,1450,307,51,47,F1.jpg,2577,2453
+screw,2093,664,47,48,F1.jpg,2577,2453
+screw,1354,238,27,51,F1.jpg,2577,2453
+screw,1820,945,50,50,F1.jpg,2577,2453
+hole,1493,509,43,41,F1.jpg,2577,2453
+hole,845,750,16,41,F1.jpg,2577,2453
+screw,997,762,54,53,F1.jpg,2577,2453
+screw,1537,1260,48,49,F1.jpg,2577,2453
+screw,1157,1086,52,48,F1.jpg,2577,2453
+screw,893,836,47,49,F1.jpg,2577,2453
+screw,488,1276,47,52,F1.jpg,2577,2453
+screw,584,1721,51,50,F1.jpg,2577,2453
+screw,269,1536,38,36,F1.jpg,2577,2453
+hole,182,1448,47,42,F1.jpg,2577,2453
